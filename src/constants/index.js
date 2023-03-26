@@ -28,11 +28,11 @@ import {
 export const navLinks = [
     {
       id: "about",
-      title: "About",
+      title: "Présentation",
     },
     {
       id: "work",
-      title: "Work",
+      title: "Réalisations",
     },
     {
       id: "contact",
@@ -42,19 +42,19 @@ export const navLinks = [
   
 const services = [
     {
-      title: "Web Developer",
+      title: "Développeur Web",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Développeur mobile",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "UX et UI Design",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Référencement naturel SEO",
       icon: creator,
     },
 ];
