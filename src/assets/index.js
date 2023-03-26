@@ -26,9 +26,9 @@ import yellow from "./company/yellow.png";
 import capf from "./company/capf.png";
 import levcrea from "./company/levcrea.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import levcreaImage from "./levcreaImage.png";
+import chatapp from "./chatapp.png";
+import influencenow from "./influencenow.png";
 
 export {
   logo,
@@ -56,7 +56,7 @@ export {
   yellow,
   capf,
   levcrea,
-  carrent,
-  jobit,
-  tripguide,
+  levcreaImage,
+  influencenow,
+  chatapp,
 };

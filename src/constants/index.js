@@ -19,10 +19,10 @@ import {
     capf,
     levcrea,
     yellow,
-    carrent,
-    jobit,
-    tripguide,
     wordpress,
+    chatapp,
+    influencenow,
+    levcreaImage,
 } from "../assets";
   
 export const navLinks = [
@@ -193,67 +193,67 @@ const testimonials = [
   
 const projects = [
     {
-      name: "Car Rent",
+      name: "Influence Now",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Création d'un site vitrine pour l'entreprise InfluenceNow ! Animations, Popup et génération de pages.",
+      tags: [
+        {
+          name: "Wordpress",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Elementor",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Ionos",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: influencenow,
+      source_code_link: "https://influencenow.fr",
+    },
+    {
+      name: "Application de live chat",
+      description:
+        "Application web offrant aux utilisateurs la possibilité de rechercher d'autres personnes pour échanger avec elles en temps réel, partager des images et vidéos, et créer des groupes de discussion pour faciliter les interactions.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "ChatEngine.io",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "NodeJS",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: chatapp,
+      source_code_link: "https://github.com/nathan2626/chat-app-reactJs",
     },
     {
-      name: "Job IT",
+      name: "Lév Créa Paris",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Création d'un site E-commerce pour l'entreprise LévCréa Paris. Mailing, relance automatique et connexion avec Google Sheet.",
       tags: [
         {
-          name: "react",
+          name: "woocommerce",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "mailing",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "OVH",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: levcreaImage,
+      source_code_link: "https://levcreaparis.com",
     },
 ];
   
