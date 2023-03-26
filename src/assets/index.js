@@ -10,21 +10,21 @@ import close from "./close.svg";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
-import git from "./tech/git.png";
+import php from "./tech/php.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
+import vuejs from "./tech/vuejs.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+import wordpress from "./tech/wordpress.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import laravel from "./tech/laravel.png";
+import ionic from "./tech/ionic.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import bokertov from "./company/bokertov.png";
+import yellow from "./company/yellow.png";
+import capf from "./company/capf.png";
+import levcrea from "./company/levcrea.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -42,20 +42,20 @@ export {
   css,
   docker,
   figma,
-  git,
+  laravel,
   html,
   javascript,
-  mongodb,
+  vuejs,
   nodejs,
   reactjs,
-  redux,
+  wordpress,
   tailwind,
-  typescript,
-  threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  ionic,
+  php,
+  bokertov,
+  yellow,
+  capf,
+  levcrea,
   carrent,
   jobit,
   tripguide,
