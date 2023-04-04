@@ -7,9 +7,9 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-const VITE_APP_EMAILJS_SERVICE_ID = '';
-const VITE_APP_EMAILJS_TEMPLATE_ID = '';
-const VITE_APP_EMAILJS_PUBLIC_KEY = '';
+const VITE_APP_EMAILJS_SERVICE_ID = 'service_zq4a2mk';
+const VITE_APP_EMAILJS_TEMPLATE_ID = 'template_8v9e5km';
+const VITE_APP_EMAILJS_PUBLIC_KEY = '31j7QnsbLYV2t5dnW';
 
 const Contact = () => {
   // Create a reference for the form using the useRef() hook
