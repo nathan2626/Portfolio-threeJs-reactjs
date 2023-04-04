@@ -41,4 +41,3 @@ To run this project, you will need to add the following environment variables to
 - [@nathan2626](https://github.com/nathan2626)
 - [LinkedIn](https://www.linkedin.com/in/nathan-journo/)
 
-
